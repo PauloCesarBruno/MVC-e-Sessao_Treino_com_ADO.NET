@@ -1,5 +1,5 @@
 using System;
- //
+
 namespace Treinando_MVC_e_Sessao.Models
 {
     public class ErrorViewModel
